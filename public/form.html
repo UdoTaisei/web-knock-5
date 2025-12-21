@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <title>ユーザ登録フォーム</title>
+</head>
+<body>
+  <h1>ユーザ登録</h1>
+
+  <form action="/users" method="POST">
+    <div>
+      <label>名前：</label>
+      <input type="text" name="name" required />
+    </div>
+
+    <div>
+      <label>Email：</label>
+      <input type="email" name="email" required />
+    </div>
+
+    <div>
+      <label>年齢：</label>
+      <input type="number" name="age" />
+    </div>
+
+    <button type="submit">登録</button>
+  </form>
+</body>
+</html>
