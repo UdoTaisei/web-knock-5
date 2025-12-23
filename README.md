@@ -29,7 +29,7 @@ order by: 並べ替える。
 
 # 56. Node.jsからデータベースに接続
 ![kadai56.png](images/kadai56.png)
-
+[kadai56.js](kadai56.js)
 # 57. Webサーバとデータベースの連携
 ![kadai57.png](images/kadai57.png)
 
@@ -40,3 +40,4 @@ order by: 並べ替える。
 # 59. 登録データの編集・削除機能の実装
 ![kadai59_1.png](images/kadai59_1.png)
 ![kadai59_2.png](images/kadai59_2.png)
+[kadai59.js](kadai59.js)
